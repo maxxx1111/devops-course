@@ -7,4 +7,4 @@
 - 04.06.2021. Today I've learned how to create samba share in arch linux.
 - 05.06.2021. Today I've learned how to configure read/write acces for samba users.
 - 06.06.2021. Today I've learned how to configure proxy settings in Windows.
-- 07.07.2021. Today I've learned how to set up openssh in arch linux.
+- 07.06.2021. Today I've learned how to set up openssh in arch linux.
