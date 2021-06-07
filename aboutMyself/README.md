@@ -6,6 +6,7 @@ Today I have such programming skills:
 - Delphi
 - C#
 - Python
+
 I have a bit expirience at maintenance Windows and Linux based (CentOS 8, Raspbian, Arch Linux) servers, networks.
 
 ## I am interested in this course because:
