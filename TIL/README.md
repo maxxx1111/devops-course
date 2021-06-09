@@ -8,3 +8,5 @@
 - 05.06.2021. Today I've learned how to configure read/write acces for samba users.
 - 06.06.2021. Today I've learned how to configure proxy settings in Windows.
 - 07.06.2021. Today I've learned how to set up openssh in arch linux.
+- 08.06.2021. Today I've learned how to set up Debian on VirtualBox and set up xfce4.
+- 09.06.2021. Today I've learned some new information about different IDEs.
