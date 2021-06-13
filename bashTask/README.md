@@ -19,45 +19,17 @@ Choose process state:
 3 - TIME_WAIT
 4 - CLOSE_WAIT
 5 - CLOSED
-0
+2
 Select output type:
 1 - Only organization name and id
 2 - Information about organization
 3 - All information
-1
-------------------------------------
-Organization:   Google LLC (GOOGL-2)
-------------------------------------
-Organization:   Amazon Technologies Inc. (AT-88-Z)
-Organization:   Amazon.com, Inc. (AMAZON-4)
-Organization:   Amazon.com, Inc. (AMAZON-4)
+2
+Enter count of lines to output: 5
 ------------------------------------
 Organization:   Amazon Technologies Inc. (AT-88-Z)
-Organization:   Amazon.com, Inc. (AMAZO-47)
-------------------------------------
-Organization:   Amazon Technologies Inc. (AT-88-Z)
-Organization:   Amazon.com, Inc. (AMAZON-4)
-Organization:   Amazon.com, Inc. (AMAZON-4)
-------------------------------------
-Organization:   Google LLC (GOGL)
-------------------------------------
-Organization:   Amazon.com, Inc. (AMAZO-4)
-Organization:   Amazon.com, Inc. (AMAZO-47)
-------------------------------------
-Organization:   Google LLC (GOOGL-2)
-------------------------------------
-Organization:   Amazon Technologies Inc. (AT-88-Z)
-Organization:   Amazon.com, Inc. (AMAZON-4)
-Organization:   Amazon.com, Inc. (AMAZON-4)
-------------------------------------
-------------------------------------
-Organization:   Google LLC (GOGL)
-------------------------------------
-Organization:   Amazon Technologies Inc. (AT-88-Z)
-Organization:   Amazon.com, Inc. (AMAZO-47)
-------------------------------------
-Organization:   Amazon Technologies Inc. (AT-88-Z)
-Organization:   Amazon.com, Inc. (AMAZON-4)
-Organization:   Amazon.com, Inc. (AMAZON-4)
-------------------------------------
+OrgName:        Amazon Technologies Inc.
+OrgId:          AT-88-Z
+OrgRoutingHandle: ADR29-ARIN
+OrgRoutingName:   AWS Dogfish Routing
 ```
