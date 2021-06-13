@@ -10,3 +10,7 @@
 - 07.06.2021. Today I've learned how to set up openssh in arch linux.
 - 08.06.2021. Today I've learned how to set up Debian on VirtualBox and set up xfce4.
 - 09.06.2021. Today I've learned some new information about different IDEs.
+- 10.06.2021. Today I've learned how to configure ip addresses in RouterOS.
+- 11.06.2021. Today I've learned how to configure DHCP server in RouterOS.
+- 12.06.2021. Today I've learned how to use netstat, ss, head, tail and some other commands in Debian.
+- 13.06.2021. Today I've learned if statement, loops and some other constructions and statements in bash.
