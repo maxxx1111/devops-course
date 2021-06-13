@@ -8,7 +8,7 @@ This simple script show's some information about organization which belongs ip a
 
 ### Example
 ```
-sudo ./script.bash 
+terminal@dtest:~$ sudo ./script.bash 
 Do you want to use root?(It's needed to see all information)(y/n(default: n)): y
 Enter process name or PID: firefox
 Choose process state:
